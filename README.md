@@ -86,8 +86,6 @@ Proje **Model – View – Controller** mimarisine uygun şekilde geliştirilmi�
 
 ---
 
-## 📁 GitHub Repository Yapısı
-Repository aşağıdaki yapıya sahiptir:
 
 ## Video linki
 https://youtu.be/pBMZH-AN62Q 
