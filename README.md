@@ -1,6 +1,6 @@
 # Web-Tabanli-Programlama
 # 📌 Proje Adı
-[FitTrack]
+FitTrack
 
 ---
 
@@ -21,8 +21,8 @@ bir web uygulaması geliştirilmiştir.
 ## 👥 Hedef Kullanıcı Kitlesi
 Bu web uygulaması aşağıdaki kullanıcı kitlesine hitap etmektedir:
 
-- [Sporcular]
-- [İşletmeciler]
+- Sporcular
+- İşletme sahipleri
 
 
 ---
